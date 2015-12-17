@@ -1,0 +1,27 @@
+// Disable bold. 
+term_.prefs_.set('enable-bold', false) 
+
+// prefs
+term_.prefs_.set('background-color', "#2D2D2D");
+term_.prefs_.set('foreground-color', "#ECE8CF");
+term_.prefs_.set('cursor-color', "#ff8939");
+
+term_.prefs_.set('color-palette-overrides', [
+    "#393939",
+    "#E2FFC7",
+    "#FFFFB9",
+    "#EDE7B4",
+    "#E2BEB5",
+    "#6EB49D",
+    "#dddddd",
+    "#474747",
+    "#FF8D80",
+    "#DBFFB3",
+    "#FFBE64",
+    "#beb090",
+    "#94C7B5",
+    "#A2C3CC",
+    " #dddddd",
+    "#f6f6c9"
+  ]);
+  
