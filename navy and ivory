@@ -1,0 +1,30 @@
+// Disable bold. 
+term_.prefs_.set('enable-bold', false) 
+
+// Use this for Solarized Dark 
+term_.prefs_.set('background-color', "#2e3340");
+term_.prefs_.set('foreground-color', "#ef5847");
+term_.prefs_.set('cursor-color', "#beb090");
+
+term_.prefs_.set('color-palette-overrides', [
+    "#032c36",
+    "#c2454e",
+    "#7cbf9e",
+    "#8a7a63",
+    "#2e3340",
+    "#ff5879",
+    "#44b5b1",
+    "#f2f1b9",
+    "#065f73",
+    "#ef5847",
+    "#a2d9b1",
+    "#beb090",
+    "#61778d",
+    "#ff99a1",
+    "#9ed9d8",
+    "#f6f6c9"
+  ]);
+  
+  
+  
+  
