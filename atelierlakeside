@@ -3,7 +3,7 @@ term_.prefs_.set('enable-bold', false)
 //atelierlakeside
 term_.prefs_.set('background-color', "#516d7b");
 term_.prefs_.set('foreground-color', "#ebf8ff");
-term_.prefs_.set('cursor-color', "#516d7b");
+term_.prefs_.set('cursor-color', "#2d8f6f");
 
 term_.prefs_.set('color-palette-overrides', [
     '#161b1d',
