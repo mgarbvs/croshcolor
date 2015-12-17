@@ -1,0 +1,27 @@
+// Disable bold. 
+term_.prefs_.set('enable-bold', false) 
+//atelierlakeside
+term_.prefs_.set('background-color', "#516d7b");
+term_.prefs_.set('foreground-color', "#ebf8ff");
+term_.prefs_.set('cursor-color', "#516d7b");
+
+term_.prefs_.set('color-palette-overrides', [
+    '#161b1d',
+    '#d22d72',
+    '#568c3b',
+    '#8a8a0f',
+    '#257fad',
+    '#5d5db1',
+    '#2d8f6f',
+    '#7ea2b4',
+    '#5a7b8c',
+    '#d22d72',
+    '#568c3b',
+    '#8a8a0f',
+    '#257fad',
+    '#5d5db1',
+    '#2d8f6f',
+    '#ebf8ff'
+  ],
+]);
+
