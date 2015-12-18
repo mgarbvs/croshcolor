@@ -24,5 +24,3 @@ term_.prefs_.set('color-palette-overrides', [
     "#F79321",
     "#F3F3F4"
   ]);
-  
-  
