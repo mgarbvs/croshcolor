@@ -1,0 +1,26 @@
+// Disable bold. 
+term_.prefs_.set('enable-bold', false) 
+
+// prefs
+term_.prefs_.set('background-color', "");
+term_.prefs_.set('foreground-color', "");
+term_.prefs_.set('cursor-color', "");
+
+term_.prefs_.set('color-palette-overrides', [
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "#",
+    "",
+    "#"
+  ]);
