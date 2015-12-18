@@ -21,6 +21,6 @@ term_.prefs_.set('color-palette-overrides', [
     "#",
     "#",
     "#",
-    "",
+    "#",
     "#"
   ]);
