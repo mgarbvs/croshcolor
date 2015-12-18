@@ -2,9 +2,9 @@
 term_.prefs_.set('enable-bold', false) 
 
 // prefs
-term_.prefs_.set('background-color', "");
-term_.prefs_.set('foreground-color', "");
-term_.prefs_.set('cursor-color', "");
+term_.prefs_.set('background-color', "#000000");
+term_.prefs_.set('foreground-color', "#ffffff");
+term_.prefs_.set('cursor-color', "#5c1e25");
 
 term_.prefs_.set('color-palette-overrides', [
     "#322a2c",
